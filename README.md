@@ -1,15 +1,9 @@
 <h2> Hey there! I'm Ahmed.</h2>
-<style type=text/css>       
-   div {
-     margin: 1px;
-       }
-</style>
-
 <div align="left">
   <div align="left">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&center=true&vCenter=true&width=435&lines=Discord+bot+developer;Cyber+security+student;Software+designer;Web+designer)](https://github.com/devvyyxyz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&left=true&vCenter=true&width=435&lines=Discord+bot+developer;Cyber+security+student;Software+designer;Web+designer)](https://github.com/devvyyxyz)
 
   </div> 
 </div>
