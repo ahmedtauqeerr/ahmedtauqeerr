@@ -1,8 +1,8 @@
 <h2> Hey there! I'm Ahmed.</h2>
-
+<div align=left;
 <!--- https://readme-typing-svg.herokuapp.com --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&center=true&vCenter=true&width=435&lines=Full+stack+developer;Graphic+Designer;Video+Editor)](https://github.com/a4m3d)
-
+</div>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
