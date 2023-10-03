@@ -43,6 +43,6 @@
 <p align="center">
 <a href="https://www.a4m3d.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.a4m3d.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ahmed-tauqeer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Tauqeer-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/lil_ahmxd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lil_ahmxd-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ahmed.tauqeer_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ahmed.tauqeer_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ahmed.tauqeer.aamir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahmed.tauqeer.aamir@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
