@@ -1,10 +1,12 @@
 <h2> Hey there! I'm Ahmed.</h2>
 
 <div align="left">
+  <div align="left">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&center=true&vCenter=true&width=435&lines=Discord+bot+developer;Cyber+security+student;Software+designer;Web+designer)](https://github.com/devvyyxyz)
- 
+
+  </div> 
 </div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
