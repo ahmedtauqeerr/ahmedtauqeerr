@@ -1,4 +1,9 @@
 <h2> Hey there! I'm Ahmed.</h2>
+<style type=text/css>       
+   div {
+     margin: 1px;
+       }
+</style>
 
 <div align="left">
   <div align="left">
