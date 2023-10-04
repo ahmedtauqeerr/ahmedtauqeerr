@@ -2,7 +2,7 @@
 <div align="left">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&left=true&vCenter=true&width=435&lines=Full+stack+developer;Graphic+Designer;Video+editor)](https://github.com/a4m3d)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=76E63BFF&left=true&vCenter=true&width=435&lines=Front+end+developer;Graphic+Designer;Video+editor)](https://github.com/a4m3d)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Doing O'levels from The Science School.
-- 💼 &nbsp; Working as a full-stack developer at Freelancer.
+- 💼 &nbsp; Working as a front-end developer at Upwork.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Content creation as hobbies/side hustles.
 
