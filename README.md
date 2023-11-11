@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Ahmed aka Aekurate.</h2>
+<h2> Hey there! I'm Ahmed (Aekurate).</h2>
 <div align="left">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
