@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Tauqeer (roovzi)</h1>
+<h1 align="center">Hi 👋, I'm roovzi</h1>
 <h3 align="center">A passionate developer from 🇰🇼</h3>
 
 <p align="left"> <a href="https://twitter.com/roovzi" target="blank"><img src="https://img.shields.io/twitter/follow/roovzi?logo=twitter&style=for-the-badge" alt="ahmedtauqeerr" /></a> </p>
